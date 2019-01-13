@@ -1,8 +1,10 @@
-This repo updates docker images:
-sirnarsh/laravel-docker https://hub.docker.com/r/sirnarsh/laravel-docker
-sirnarsh/larvel-cli-docker https://hub.docker.com/r/sirnarsh/laravel-cli-docker
+Preinstalled with laravel dependencies & php-composer
 
-Purpose is to run a laravel app inside a docker container, either with apache, or cli version for background queue processing service
+This repo updates docker images under sirnarsh/laravel-docker  https://hub.docker.com/r/sirnarsh/laravel-docker
+:latest by default using php-apache
+:cli-latest uses bare php
+:fpm-latest uses php-fpm image
+
 
 
 ### Usage: 
