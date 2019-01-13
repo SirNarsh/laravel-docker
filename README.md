@@ -1,6 +1,8 @@
-This repo updates docker image https://hub.docker.com/r/sirnarsh/laravel-docker
+This repo updates docker images:
+sirnarsh/laravel-docker https://hub.docker.com/r/sirnarsh/laravel-docker
+sirnarsh/larvel-cli-docker https://hub.docker.com/r/sirnarsh/laravel-cli-docker
 
-Purpose is to run a laravel app inside a docker container
+Purpose is to run a laravel app inside a docker container, either with apache, or cli version for background queue processing service
 
 
 ### Usage: 
