@@ -1,9 +1,9 @@
 Preinstalled with laravel dependencies & php-composer
 
 This repo updates docker images under sirnarsh/laravel-docker  https://hub.docker.com/r/sirnarsh/laravel-docker
-:latest by default using php-apache
-:cli-latest uses bare php
-:fpm-latest uses php-fpm image
+- **:latest** by default using php-apache
+- **:cli-latest** uses bare php
+- **:fpm-latest** uses php-fpm image
 
 
 
